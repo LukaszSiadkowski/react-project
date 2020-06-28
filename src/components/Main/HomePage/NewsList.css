@@ -1,0 +1,13 @@
+.NewsCard-content {
+    padding: 0 12px 12px 12px;
+    
+}
+
+.NewsCard-content-footer {
+    font-size: 12px;
+    text-align: right;
+}
+.NewsCard-content-footer > p {
+    font-style: italic;
+    margin-bottom: 0;
+}

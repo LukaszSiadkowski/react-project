@@ -1,0 +1,15 @@
+.body {
+    height: 100vh;
+    /* max-height:100%; max-width:100% */
+    text-align: center;
+    position: relative;
+    padding-top: 10vh;
+}
+
+/* #foto {
+    text-align: center;
+    max-height:100%; 
+    max-width:100%;
+    object-position: center;
+
+} */
