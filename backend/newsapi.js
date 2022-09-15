@@ -2,7 +2,7 @@ const superagent = require('superagent');
 
 const NEWS_API_URL = 'https://newsapi.org/v2';
 const TOP_HEADLINES_ENDPOINT_PATH = '/top-headlines';
-const API_KEY = '5013d7e36071475c9b604a09bc2923ab';
+const API_KEY = 'xxxxxxx';
 
 const EVERYTHING_ENDPOINT_PATH = '/everything';
 
